@@ -1,3 +1,6 @@
+0.6.2
+---
+* Added README with installation instructions
 0.6.1
 ---
 * Simplified wheel event management function

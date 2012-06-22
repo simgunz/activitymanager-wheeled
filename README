@@ -1,0 +1,28 @@
+activitymanager-wheeled
+=======================
+
+Lightweight plasmoid to manage your activities effectively.
+Can start, stop, switch between, clone, edit and remove activities.
+
+This is an improvement to activitymanager plasmoid that adds the ability to switch activity by scrolling the mouse wheel over the widget.
+
+The original plasmoid can be found here:
+http://kde-apps.org/content/show.php/?content=136278
+
+Developed by:
+Abdurrahman AVCI <abdurrahmanavci AT gmail DOT com>
+
+Improved by:
+Simone Gaiarin <simgunz AT gmail DOT com>
+
+Code under GPLv3 license (see COPYING)
+
+Requires:
+KDE SC 4.x
+
+How to install:
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=$(kde4-config --prefix) ..
+make
+sudo make install
