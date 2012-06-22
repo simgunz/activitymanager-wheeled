@@ -1,0 +1,34 @@
+0.6.1
+---
+* Simplified wheel event management function
+0.6
+---
+* Added ability to switch activity by scrolling mouse wheel over the widget
+0.5
+---
+* Added GPLv2 license headers and COPYING file.
+* Added tooltip to the system tray icon. Tooltip shows the
+  current activity icon and name.
+* Align start/stop icon to the right when activities are locked.
+0.4
+---
+* Added ability to lock activity editing. When locked activity
+  clone/edit/remove icons are hidden.
+* Make sure that only one instance of rename or delete dialog
+  is visible at a time. Fixes a crash.
+* Use the proper activities icon.
+* Added tooltips.
+0.3
+---
+* Move action icons to the right side to be more
+  consistent with the other plasmodis (e.g device notifier).
+* Added ability to remove activities.
+* Added ability to edit activity names.
+* Added ability to clone activities.
+0.2
+---
+* Make sure that only one extender item exist
+* Sort activities by name.
+0.1
+---
+Initial release

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Activity Manager
+Comment=Manage your activities
+Icon=preferences-activities
+Type=Service
+ServiceTypes=Plasma/Applet
+
+X-KDE-Library=plasma_applet_activitymanager
+X-KDE-PluginInfo-Author=Abdurrahman AVCI
+X-KDE-PluginInfo-Email=abdurrahmanavci@gmail.com
+X-KDE-PluginInfo-Name=activitymanager
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-Category=Windows and Tasks
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-NotificationArea=true
